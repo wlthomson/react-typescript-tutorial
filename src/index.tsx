@@ -3,4 +3,7 @@ import * as ReactDOM from 'react-dom';
 
 import App from './components/App';
 
-ReactDOM.render(<App someProp="someValue" />, document.getElementById('app'));
+ReactDOM.render(
+  <App someProp="somePropValue" />,
+  document.getElementById('app')
+);
