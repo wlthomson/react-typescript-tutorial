@@ -1,8 +1,12 @@
 # emacs
 *~
+#*
 
 # yarn
 yarn-error.log
+
+# bundles
+dist/
 
 # dependencies
 node_modules/
